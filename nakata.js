@@ -2655,10 +2655,10 @@ case 'donasi':
 tekssa = `Halo @${m.sender.split("@s.whatsapp.net")[0]} 👋
 Berikut adalah list harga untuk sewa bot ini
 *💸Payment💰*
-*•Gopay:* ISI NOMOR LU
-*•Dana:* ISI NOMOR LU
-*•Ovo:* ISI NOMOR LU
-*•Pulsa:* ISI NOMOR LU(Up +5)
+*•Gopay:* GAKDA
+*•Dana:* GAKDA
+*•Ovo:* GAKDA
+*•Pulsa:* 083830815715
 
 *Note:
 =>Untuk Sewa/Memasukkan Bot Kedalam Group, cukup membayar Rp20.000
@@ -2673,8 +2673,8 @@ break
 ╭─ *Bot Info* ─╮       
 
 Libray : *Baileys Multi Device*
-Name Bot : *NahBotz-MD²*
-Creator : *NakataArdnt*
+Name Bot : *Ｔａｓｙａ-MD²*
+Creator : *Ｔａｓｙａ*
 Author : *NakataArdnta.*
 User Total : *${Object.keys(global.db.data.users).length}*
  
